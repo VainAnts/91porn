@@ -38,17 +38,7 @@ rxJava+retrofit+rxCache+mvp+Jsoup+dagger2
 4.	其他细小bug以及优化改进
 
 
-[查看更多版本更新日志...](https://github.com/techGay/91porn/blob/master/UPDATE_LOG.md)
-
-### 下载APK(当然你也可以下载源码自己编译)
-[在apk目录下会上传最新版本，选择下载即可](https://github.com/techGay/91porn/tree/master/apk)
-
-[或者这里也可以下载](https://bitbucket.org/techGay/91porn/downloads)
-
 **注：v1.0.3版本之后已经增加了自动更新功能，不必手动下载升级了**
 
-
-### 建议或者bug反馈
-在[issues](https://github.com/techGay/91porn/issues) 界面反馈即可，尽可能的把问题描述清楚，比如操作过程，机型，系统版本，能否复现等等
 ### 声明
 本项目仅做技术交流使用，任何人或组织无论以何种形式将其用在其他任何地方由此引发的各种问题均与本人无关
